@@ -259,6 +259,7 @@ section {
     transform-origin: 384px;
     background: var(--bg-color);
     padding: 13px 0;
+    border-radius: 50% 50% 35% 35%;
 }
 
 
